@@ -4,8 +4,11 @@ Analysis of a dataset that has been collected from 100k medical appointments in 
 for their appointment. A number of characteristics about the patient are included in each row:
 
 • ‘ScheduledDay’ tells us on what day the patient set up their appointment.
+
 • ‘Neighborhood’ indicates the location of the hospital.
+
 • ‘Scholarship’ indicates whether or not the patient is enrolled in Brasilian welfare program Bolsa Família.
+
 
 ## Conclusions 
 
