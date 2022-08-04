@@ -50,3 +50,6 @@ In addition, it is important to mention, that the conclusions related to some of
 Also, we saw limitations related to the reason behind an SMS being sent to a specific patient. This would have helped us when we were interpreting the data of patients who received an SMS but did not attend the appointment compared with those who also received the SMS, but attended the appointment. For example, if the clinics will send an SMS because a patient has a history of missing appointments, then a new group is delineated and namely patients with a tendency to miss appointments. Around a 70% attendance rate would be considered a great success. 
 
 Similarly to the above, previous history of attendance would have been useful to better understand the impact of scholarships on the patient's attendance rate. Since this information is missing, we can't tell for sure if missing an appointment was due to a financial issue that the patient had, which would require working more hours per day, or not.
+
+## Source
+Orignialy the dataset has been downloaded from [Kaggle](https://www.kaggle.com/datasets/joniarroba/noshowappointments).
